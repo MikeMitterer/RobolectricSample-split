@@ -1,0 +1,35 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:0.5.+'
+    }
+}
+apply plugin: 'android'
+apply plugin: 'eclipse'
+
+dependencies {
+    compile fileTree(dir: 'libs', include: '*.jar')
+}
+
+android {
+    compileSdkVersion 18
+    buildToolsVersion "18.0.1"
+
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+			
+            java.srcDirs 			= ['src/test/java','src/main/java','target/generated-sources/aidl']
+            resources.srcDirs 		= ['src/test/java','src/main/java','target/generated-sources/aidl']
+            aidl.srcDirs 			= ['src/test/java','src/main/java','target/generated-sources/aidl']
+            renderscript.srcDirs 	= ['src/test/java','src/main/java','target/generated-sources/aidl']
+            res.srcDirs 			= ['res']
+            assets.srcDirs 			= ['assets']
+        }
+
+        // Move the tests to tests/java, tests/res, etc...
+        instrumentTest.setRoot('tests')
+    }
+}

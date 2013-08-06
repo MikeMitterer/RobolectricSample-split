@@ -1,0 +1,20 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1375471114000 389 df9c67c27dc6afb5995052fc0b020c3fa7b6e6b9 /Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/res/layout/home_pivotal_logo_non_merge.xml
+1375471114000 3493 531ef58ec4d6d898dbc247c008bb82fca02d0d6d /Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/res/drawable/pivotallabs_logo.png
+1375471114000 670 666223ea07461387871d1f8b5951823c15eaee2b /Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/res/layout/loading_text.xml
+1375471114000 6332 7fb6698b2a8f562dc0ce08960d4d132a7177ac56 /Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/res/drawable/robolectric.png
+1375471114000 950 b018034ea62e211a19117eb96b21e3ca34fc3636 /Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/res/layout/home_buttons_merge.xml
+1375471114000 1108 0f7c8e0cc1ab019ffced3280494fa5f598e10b81 /Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/res/layout/recent_activity_layout.xml
+1375471114000 766 3eb6184eef0a07adb6e336b368fa4c11c33ff0e0 /Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/res/layout/injected.xml
+1375471114000 352 fa59122ff8b2ad5962fcfcec15898f990f8d9e86 /Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/res/layout/name_row.xml
+1375471114000 475 980e6043c97e5dccddd34c5432783f100a8cf85a /Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/res/layout/names_list_layout.xml
+1375471114000 906 f378417c9c10ca361d9cce7479a4a8961f3b60e0 /Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/res/layout/home_layout.xml
+1375471114000 290 685b620e0ca149a50323d3aadb98c03aa02e1f59 /Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/res/layout/activity_summary.xml
+1375471114000 854 b6b36e06273ba65e3521f43915a857130b30b5fd /Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/res/values/strings.xml
+1375471114000 3413 80c3c6866241a811de2fd69a5bce63fde75d81fb /Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/res/drawable/app_icon.png
+1375471114000 2777 af4608a527447731017cd1d75f27f4df7240bc87 /Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/res/drawable/pivotal_tracker_small.png
+1375471114000 746 23878cdc640f6a353cbf471a5450b5847b22b08f /Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/res/layout/loading_view.xml
+1375471114000 72413 5fa3c6fdbd491446d348e9bb914357c373d23a78 /Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/res/drawable/roboguice.png
+1375471114000 1373 5ea3da1f781ff5566a74d85650ed77df34d3a31d /Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/res/layout/sign_in_dialog.xml

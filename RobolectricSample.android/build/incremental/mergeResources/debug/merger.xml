@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/res" >
+            <file
+                name="name_row"
+                path="/Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/res/layout/name_row.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="recent_activity_layout"
+                path="/Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/res/layout/recent_activity_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="names_list_layout"
+                path="/Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/res/layout/names_list_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="injected"
+                path="/Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/res/layout/injected.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="sign_in_dialog"
+                path="/Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/res/layout/sign_in_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="loading_text"
+                path="/Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/res/layout/loading_text.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="loading_view"
+                path="/Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/res/layout/loading_view.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="home_layout"
+                path="/Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/res/layout/home_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_summary"
+                path="/Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/res/layout/activity_summary.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="home_pivotal_logo_non_merge"
+                path="/Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/res/layout/home_pivotal_logo_non_merge.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="home_buttons_merge"
+                path="/Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/res/layout/home_buttons_merge.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/res/values/strings.xml"
+                qualifiers="" >
+                <string name="sign_in" >Sign In
+                </string>
+                <string name="injected_activity_caption" >Roboguice Activity tested with Robolectric
+                </string>
+                <string name="view_recent_tracker_activity" >View Recent Tracker Activity
+                </string>
+                <string name="recent_activity" >Recent Activity
+                </string>
+                <string name="unknown_user_pass" >Username/Password combination is not recognized.
+                </string>
+                <string name="unit_tests_ftw" >Unit Tests FTW!!!
+                </string>
+                <string name="tests_rock" >Tests Rock!
+                </string>
+                <string name="ok" >Ok
+                </string>
+                <string name="app_name" >Robolectric Sample
+                </string>
+                <string name="username" >Username
+                </string>
+                <string name="error" >Error
+                </string>
+                <string name="password" >Password
+                </string>
+                <string name="injected_activity" >Roboguice Injected Activity
+                </string>
+            </file>
+            <file
+                name="pivotallabs_logo"
+                path="/Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/res/drawable/pivotallabs_logo.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="pivotal_tracker_small"
+                path="/Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/res/drawable/pivotal_tracker_small.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="roboguice"
+                path="/Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/res/drawable/roboguice.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="robolectric"
+                path="/Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/res/drawable/robolectric.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="app_icon"
+                path="/Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/res/drawable/app_icon.png"
+                qualifiers=""
+                type="drawable" />
+        </source>
+        <source path="/Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Volumes/programming/DevJava/Tests/RobolectricSample/RobolectricSample/src/debug/res" />
+    </dataSet>
+
+</merger>
